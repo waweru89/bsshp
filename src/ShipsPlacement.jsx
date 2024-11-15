@@ -8,7 +8,6 @@ import TypesOfShips, {
 } from "./TypesOfShips";
 import Board from "./Board";
 import "../public/css/style2.css";
-import { Player1Board, Player2Board } from './PlayerBoard';
 
 
 function ShipsPlacement() {

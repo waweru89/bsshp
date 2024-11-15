@@ -35,10 +35,8 @@ function Demo() {
           <div className="col-lg-15" data-aos="fade-down" data-aos-delay="50">
             {/* board */}
             <Battleship />
-            {/* <Player1Board /> */}
           </div>
           {/* <div data-aos="fade-down" data-aos-delay="150" className="col-lg-5"> */}
-          {/* <Player2Board /> */}
           {/* </div> */}
         </div>
         {/* <AnimBoard /> */}
