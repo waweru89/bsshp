@@ -1,4 +1,4 @@
-import "../public/css/style.css";
+import "./style.css";
 import TypesOfShips, {
   Battleship,
   Carrier,
@@ -7,7 +7,7 @@ import TypesOfShips, {
   Submarine,
 } from "./TypesOfShips";
 import Board from "./Board";
-import "../public/css/style2.css";
+import "./style2.css";
 
 
 function ShipsPlacement() {

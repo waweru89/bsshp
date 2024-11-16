@@ -1,5 +1,5 @@
 import React from "react";
-import "../public/css/ships2.css";
+import "./ships2.css";
 
 function Ships() {
   return (

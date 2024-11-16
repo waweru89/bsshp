@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../public/css/style2.css";
+import "./style2.css";
 import Ships from "./ships";
 
 function Board() {
